@@ -125,7 +125,7 @@ result_html = """
     <h2>Prediction Result</h2>
     <p><strong>Headline:</strong> {{ headline }}</p>
     <p><strong>Classification:</strong> {{ prediction }}</p>
-    <a href="/">🔙 Try another</a>
+    <a href="/"> Try another</a>
 </div>
 </body>
 </html>
